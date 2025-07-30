@@ -1,5 +1,8 @@
 # ✈️ Flight Delay Analysis – Excel Project
 
+![flights](https://github.com/user-attachments/assets/5554622b-1561-4003-9011-ee5226cf4510)
+
+
 ## Project link - https://docs.google.com/spreadsheets/d/1r-LumK4onYTw0RLo80BrxUeJvdEHaP-A/edit?usp=sharing&ouid=104287456793900485298&rtpof=true&sd=true
 ## Dashboard link - https://docs.google.com/spreadsheets/d/13xG4W7epDEoNT7JjGnODoMNsWdy39mqT/edit?usp=sharing&ouid=104287456793900485298&rtpof=true&sd=true
 

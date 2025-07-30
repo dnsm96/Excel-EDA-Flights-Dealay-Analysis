@@ -1,5 +1,8 @@
 # ✈️ Flight Delay Analysis – Excel Project
 
+## Project link - https://docs.google.com/spreadsheets/d/1r-LumK4onYTw0RLo80BrxUeJvdEHaP-A/edit?usp=sharing&ouid=104287456793900485298&rtpof=true&sd=true
+## Dashboard link - https://docs.google.com/spreadsheets/d/13xG4W7epDEoNT7JjGnODoMNsWdy39mqT/edit?usp=sharing&ouid=104287456793900485298&rtpof=true&sd=true
+
 ## 📊 Overview
 This project analyzes U.S. domestic flight performance using Excel, focusing on delays, cancellations, airport connectivity, airline efficiency, and weather-related impacts. The dataset covers key variables like departure/arrival times, delay reasons, airline codes, and flight dates.
 
